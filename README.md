@@ -1,6 +1,8 @@
+[![MasterHead](https://assets-global.website-files.com/5ef788f07804fb7d78a4127a/62457146ae7f934469a98710_IEZAADQ3KPGMAowZsCQc_ZjjjUC_Wu7G9LPNB2fpXtWp7ihHVMljCS58EmiBcLFOkDr3v8lUb12EDvAGCd_b6mNwOxFOxwmxcrsD87LZ5T1kQ75TQyZZEQ-_2tWkYcXZ8Bz2ckF2.png)
 <h1 align="center">Hi 👋, I'm Can Bingöl</h1>
 <h3 align="center">“A Software Engineering sophomore developing innovative ideas in artificial intelligence and machine learning.”</h3>
 
+https://assets-global.website-files.com/5ef788f07804fb7d78a4127a/62457146ae7f934469a98710_IEZAADQ3KPGMAowZsCQc_ZjjjUC_Wu7G9LPNB2fpXtWp7ihHVMljCS58EmiBcLFOkDr3v8lUb12EDvAGCd_b6mNwOxFOxwmxcrsD87LZ5T1kQ75TQyZZEQ-_2tWkYcXZ8Bz2ckF2.png
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canbingol" alt="canbingol" /></a> </p>
 
 - 💬 Ask me about **artificial intelligence**
