@@ -3,21 +3,21 @@
 
   # Can Bingöl
   
-  **Software Engineering Student & AI Researcher**
+  **AI Researcher**
 </div>
 
 ## About Me
 
-I'm a Software Engineering sophomore conducting independent research in artificial intelligence. My focus is on developing practical AI solutions and expanding my knowledge in the field.
+I'm an independent AI researcher focusing on deep learning and natural language processing. My main goal is to build impactful machine learning systems and contribute to the advancement of open AI research.
 
-- Currently researching AI technologies and methodologies
-- Software Engineering student with interest in machine learning
+- Actively developing and experimenting with transformer-based architectures  
+- Interested in LLMs, model optimization, and efficient training techniques  
 - Contact: canbingol36@gmail.com
 
 ## Skills
 
 **Languages & Tools:**  
-Python, Java, C#, TensorFlow, Pandas, Scikit-Learn, Seaborn, MATLAB, Figma
+Python, Java, C#, TensorFlow, PyTorch, Pandas, Scikit-Learn, Seaborn, MATLAB, Figma
 
 ## Connect
 
