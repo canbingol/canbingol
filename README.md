@@ -6,7 +6,7 @@
   **AI Researcher**
 </div>
 # 💫 About Me:
-I'm an independent AI researcher focusing on deep learning and natural language processing. My main goal is to build impactful machine learning systems and contribute to the advancement of open AI research.<br><br>Actively developing and experimenting with transformer-based architectures<br>Interested in LLMs, model optimization, and efficient training techniques<br>Contact: canbingol36@gmail.com<br>
+I'm an  AI researcher focusing on deep learning and natural language processing. My main goal is to build impactful machine learning systems and contribute to the advancement of open AI research.<br><br>Actively developing and experimenting with transformer-based architectures<br>Interested in LLMs, model optimization, and efficient training techniques<br>Contact: canbingol36@gmail.com<br>
 
 
 ## 🌐 Socials:
